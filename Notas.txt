@@ -1,0 +1,36 @@
+*************INSTALACIONES*************
+1 NODE
+2 VISUAL STUDIO CODE
+3 instalar node js
+4 ver si tienes instaldo node --version
+5 npm --version
+
+***************otra fuenta sobre React.js****************
+1 https://jonmircha.com/react
+
+********extensiones de visual studio code*************
+1 Simple React Snippets
+
+
+
+***********COMANDOS PARA CREAR EL PROYECTO*********
+1 npx create-react-app my-app >>>>crea un nuevo proyecto
+2 cd my-app >>>> entrar ala carpeta que creaste con react
+3 npm start >>>> ejecuta un servidor de dessarrollo
+
+
+
+*********EXTENCIONES DE NAVEGADORES************
+1 instalar react developers tools /////extenciones para navegadores
+
+
+***********OTRAS INSTALACIONES DEPENDENCIAS******************
+1 npm install react-hook-form /// formulario
+2 npx create-react-app crud-3 /// Proyecto nuevo
+3 npm install uuid ////instalacion de id
+4 npm install react-router-dom ////instalacion de rutas
+5 instalar cords unblock para las api//////////////////////////
+6 npm i -S prop-types //permite definir que tipo de datos recibira un componente
+****************atajos*************
+1 imr ///////importaciones de react
+2 rafce //// para importar todo  clase y export
